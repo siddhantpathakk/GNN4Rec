@@ -158,9 +158,5 @@ UltraGCN-gh
 logs/errors/
 runs/
 __pycache__/
-amazon_ii_constraint_mat
-amazon_ii_neighbor_mat
-ml-1m_ii_constraint_mat
-ml-1m_ii_neighbor_mat
-yelp2018_ii_constraint_mat
-yelp2018_ii_neighbor_mat
+misc/
+.sh
